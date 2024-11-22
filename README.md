@@ -1,17 +1,3 @@
-# Gala Frontend
+## 프로젝트 구조 🏗️
 
-### Create React App + Typescript
-
-### `npm start`
-
-Runs the app in the development mode.
-
-The page will reload if you make edits.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.
+## 디렉토리 설명 📂
